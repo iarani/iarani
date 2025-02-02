@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iarani
-- 👀 I’m interested in building tech enabled businesses
-- 🌱 I’m currently learning Pandas and TensorFlow (as on Nov '21)
-- 💞️ I’m looking to collaborate on AI/ML application project
-- 📫 You can reach me at me@iarani.com
+- 👀 I’m building AI Library, an open source platform to build AI Applications
+- 🌱 I'm focused on making AI more accessible to developers and non-developers
+- 💞️ Reach out to me if you are looking for a career in AI
+- 📫 You can reach me at arani@ailibrary.ai
 
 <!---
 iarani/iarani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
